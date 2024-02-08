@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 孟洋
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yang Meng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yang
+last_name: Meng
 
 # Status emoji
 status:
@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computing
+      institution: Hong Kong Polytechnic University
+      year: 2024-now
+    - course: MSc in Applied Computational Science and Engineering
+      institution: Imperial College London
+      year: 2022-2023 
+    - course: BSc in Petroleum Engineering
+      institution: China Univeristy of Petroleum
+      year: 2018-2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,11 +56,13 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
+
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
+
       - name: SQL
         description: ''
         percent: 40
@@ -114,11 +116,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_MengYang.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+{style="text-align: justify;"} 
